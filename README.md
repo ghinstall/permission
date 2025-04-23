@@ -1,4 +1,3 @@
-<div align='center'>
 <img width="280" alt="logo" src="https://github.com/user-attachments/assets/2f9504e3-5801-42fe-ac77-ecf5ce243468" />  
 
 ### Permission file for ghinstall
@@ -20,4 +19,3 @@ The _permission.txt_ file may contain:
 ---
 Built with ♡ by Andrew Baki. Copyright (C) 2025.  
 Licensed under GNU Generic Public License. All rights reserved.
-</div>
