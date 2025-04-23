@@ -1,4 +1,6 @@
+<div align="center">
 <img width="280" alt="logo" src="https://github.com/user-attachments/assets/2f9504e3-5801-42fe-ac77-ecf5ce243468" />  
+</div>
 
 ### Permission file for ghinstall
 ---
